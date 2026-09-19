@@ -1,4 +1,4 @@
-# 🚀 Conferencia Descubriendo el Mundo del Backend con C# y SQLite
+# 🚀 Conferencia Tras Bambalinas: Cómo Funciona un Backend con C# y SQLite
 
 ¡Bienvenidos al repositorio oficial de la conferencia! En esta sesión exploramos los cimientos del desarrollo Backend utilizando **C#** y la versatilidad de **SQLite** como motor de persistencia.
 
