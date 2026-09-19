@@ -1,7 +1,7 @@
 // Importamos el proveedor oficial de SQLite para ADO.NET
 using Microsoft.Data.Sqlite;
 
-// Configuramos el host web con el patrón Minimal APIs de ASP.NET Core
+// Configuramos el host web
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
 
